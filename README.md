@@ -6,7 +6,6 @@
 [![](https://visitcount.itsvg.in/api?id=SharmaNishchay&icon=2&color=12)](https://visitcount.itsvg.in)
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmanishchay&theme=darkhub" alt="sharmanishchay" /></a> </p>
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
