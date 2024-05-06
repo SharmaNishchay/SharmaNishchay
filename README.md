@@ -1,24 +1,33 @@
-# 💫 About Me:
-**Hi! I'm Nishchay Sharma**<br><br>⚡ Passionate and results-driven problem-solver, deeply committed to the art of coding and fueled by a relentless pursuit of excellence. <br><br>🎯 Armed with a robust understanding of data structures and algorithms, I possess a proven track record of navigating intricate challenges with precision and ingenuity.<br><br>🛠️ My foundation is built on continuous learning, allowing me to adapt swiftly to evolving technologies and methodologies. <br><br>📚 I thrive in the face of complexity, channeling my enthusiasm into crafting innovative solutions that push boundaries and drive progress.<br>I am eager to merge my diverse skill set with a dynamic team, where collaboration is not just encouraged but celebrated. <br><br>🤝 Together, we can harness our collective expertise to surmount obstacles and achieve remarkable outcomes.<br><br>🌐 Let's connect and explore the possibilities of collaboration, where our combined efforts can lead to mutual growth and impactful contributions to the ever-evolving landscape of technology. 💻🚀
+<h1 align="center">Hi 👋, I'm Nishchay Sharma</h1>
+⚡ Passionate and results-driven problem-solver, deeply committed to the art of coding and fueled by a relentless pursuit of excellence. <br><br>🎯 Armed with a robust understanding of data structures and algorithms, I possess a proven track record of navigating intricate challenges with precision and ingenuity.<br><br>🛠️ My foundation is built on continuous learning, allowing me to adapt swiftly to evolving technologies and methodologies. <br><br>📚 I thrive in the face of complexity, channeling my enthusiasm into crafting innovative solutions that push boundaries and drive progress.<br>I am eager to merge my diverse skill set with a dynamic team, where collaboration is not just encouraged but celebrated. <br><br>🤝 Together, we can harness our collective expertise to surmount obstacles and achieve remarkable outcomes.<br><br>🌐 Let's connect and explore the possibilities of collaboration, where our combined efforts can lead to mutual growth and impactful contributions to the ever-evolving landscape of technology. 💻🚀
+</br>
+</br>
 
+[![](https://visitcount.itsvg.in/api?id=SharmaNishchay&icon=2&color=12)](https://visitcount.itsvg.in)
+</br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmanishchay&theme=darkhub" alt="sharmanishchay" /></a> </p>
+</br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nishchay-sharma-ns) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your_username/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/sharmanischay)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%236946be.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/sharmanishchay)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nishchay-sharma-ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishchay-sharma-ns" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharmanishchay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmanishchay" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sharmanishchay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharmanishchay" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sharmanishchay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmanishchay" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sharmanischay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharmanischay" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SharmaNishchay&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
+
+# 📊 GitHub Current Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmanishchay&show_icons=true&locale=en&theme=dark" alt="sharmanishchay" /></p>
+
+# 📊 GitHub Stats (All Time):
+![](https://github-readme-stats.vercel.app/api?username=SharmaNishchay&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SharmaNishchay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaNishchay&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sharmanishchay&show_icons=true&locale=en&layout=compact&theme=dark)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SharmaNishchay&icon=2&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
